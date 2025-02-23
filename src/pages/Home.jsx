@@ -13,9 +13,9 @@ const Home = () => {
           Saya Rizky Wahyu Haqiqi, seorang IT Support & Programmer.  
           Selamat datang di website portfolio saya!
         </p>
-        <a href="https://rizkywahyuhaqiqi.netlify.app/projects" className="mt-6 inline-block bg-blue-500 hover:bg-blue-600 px-5 py-3 rounded-lg font-semibold transition">
+       {/* <a href="/projects" className="mt-6 inline-block bg-blue-500 hover:bg-blue-600 px-5 py-3 rounded-lg font-semibold transition">
           Lihat Projek
-        </a>
+        </a> */}
       </div>
 
       {/* Bagian Kanan (Three.js) */}
