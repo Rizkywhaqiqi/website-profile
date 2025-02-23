@@ -29,7 +29,7 @@ const Profile = () => {
   
           {/* Tombol CV & LinkedIn */}
           <div className="mt-6 space-x-4">
-            <a href="/cv.pdf" className="bg-green-500 hover:bg-green-600 px-5 py-3 rounded-lg font-semibold transition">
+            <a href="./assets/cv.pdf" className="bg-green-500 hover:bg-green-600 px-5 py-3 rounded-lg font-semibold transition">
               Download CV
             </a>
             <a href="https://linkedin.com/in/rizkywahyuhaqiqi" className="bg-blue-700 hover:bg-blue-800 px-5 py-3 rounded-lg font-semibold transition">
