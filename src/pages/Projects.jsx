@@ -18,7 +18,7 @@ const projects = [
   {
     title: "hero Section",
     description: "Hero Section Menggunakan GSAP ThreeJS",
-    image: "/assets/skm.png",
+    image: "/assets/herosec.png",
     preview: "https://hero-rizkywh.netlify.app/",
     link: "https://hero-rizkywh.netlify.app/",
   },
