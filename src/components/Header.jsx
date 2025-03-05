@@ -30,7 +30,11 @@ const Header = () => {
     >
       <div className="max-w-screen-xl mx-auto flex justify-between items-center px-6 py-4">
         {/* Logo */}
-        <h1 className="text-2xl font-bold tracking-wide text-blue-400">Othkodylinz_</h1>
+        <h1 className="text-2xl font-bold tracking-wide text-blue-400">
+         <a href="/">
+         Othodylinz_
+         </a>
+         </h1>
 
         {/* Tombol Hamburger untuk Mobile */}
         <button

@@ -16,6 +16,13 @@ const projects = [
     link: "https://rsudsmjamaludin.kayongutarakab.go.id/surveikm/",
   },
   {
+    title: "Images Converter to GIF",
+    description: "Image to GIF Converter adalah aplikasi berbasis web untuk mengonversi berbagai format gambar (PNG, JPG, JPEG) menjadi GIF dengan fitur drag & drop dan pengaturan urutan frame.",
+    image: "/assets/tes.png",
+    preview: "https://leading-guineafowl-othkodylinz-940a27a3.koyeb.app/",
+    link: "https://leading-guineafowl-othkodylinz-940a27a3.koyeb.app/",
+  },
+  {
     title: "hero Section",
     description: "Hero Section Menggunakan GSAP ThreeJS",
     image: "/assets/herosec.png",
