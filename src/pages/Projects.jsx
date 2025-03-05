@@ -19,8 +19,8 @@ const projects = [
     title: "Images Converter to GIF",
     description: "Image to GIF Converter adalah aplikasi berbasis web untuk mengonversi berbagai format gambar (PNG, JPG, JPEG) menjadi GIF dengan fitur drag & drop dan pengaturan urutan frame.",
     image: "/assets/tes.png",
-    preview: "https://leading-guineafowl-othkodylinz-940a27a3.koyeb.app/",
-    link: "https://leading-guineafowl-othkodylinz-940a27a3.koyeb.app/",
+    preview: "https://imagesconverting-othkodylinz.up.railway.app/",
+    link: "https://imagesconverting-othkodylinz.up.railway.app/",
   },
   {
     title: "hero Section",
