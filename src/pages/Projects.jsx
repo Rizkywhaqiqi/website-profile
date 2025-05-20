@@ -2,11 +2,11 @@ import { useState } from "react";
 
 const projects = [
   {
-    title: "Website Profile v.1",
-    description: "Website portfolio pribadi menggunakan Vite-React,Tailwind CSS dan three.js",
-    image: "/assets/1.jpeg",
-    preview: "https://rizkywahyuhaqiqi.netlify.app",
-    link: "https://rizkywahyuhaqiqi.netlify.app",
+    title: "Uttar Space Web Profile",
+    description: "website profile salah satu coffeshop di kayong utara",
+    image: "/assets/uttar.png",
+    preview: "https://uttar.space/",
+    link: "https://uttar.space/",
   },
   {
     title: "Website Survei Kepuasan Masyarakat",
@@ -16,6 +16,13 @@ const projects = [
     link: "https://rsudsmjamaludin.kayongutarakab.go.id/surveikm/",
   },
   {
+    title: "Gallery Hijabkuu Web Profile",
+    description: "Gallery Hijabkuu adalah website toko online yang menjual hijab, fashion muslimah, dan aksesoris wanita dengan tampilan modern dan responsif. Dilengkapi fitur katalog produk, testimoni pelanggan, serta halaman tentang kami dan kontak, website ini dirancang untuk memberikan pengalaman belanja yang mudah dan nyaman secara online.",
+    image: "/assets/hijabkuu.png",
+    preview: "https://galleryhijabkuu.ryneproject.space/",
+    link: "https://galleryhijabkuu.ryneproject.space/",
+  },
+  {
     title: "Images Converter to GIF",
     description: "Image to GIF Converter adalah aplikasi berbasis web untuk mengonversi berbagai format gambar (PNG, JPG, JPEG) menjadi GIF dengan fitur drag & drop dan pengaturan urutan frame.",
     image: "/assets/tes.png",
@@ -23,12 +30,20 @@ const projects = [
     link: "https://imagesconverting-othkodylinz.up.railway.app/",
   },
   {
-    title: "hero Section",
-    description: "Hero Section Menggunakan GSAP ThreeJS",
-    image: "/assets/herosec.png",
-    preview: "https://hero-rizkywh.netlify.app/",
-    link: "https://hero-rizkywh.netlify.app/",
-  },
+    title: "Potolok (photobooth) ",
+    description: "potolok adalah website yang dibuat untuk berfoto ala photobooth dengan pilihan bebrapa template",
+    image: "/assets/poto.png",
+    preview: "https://othkodylinz-potolok.vercel.app/",
+    link: "https://othkodylinz-potolok.vercel.app/",
+  }, 
+  {
+    title: "ryne project ",
+    description: "website penjualan jasa buat website profile, website gift & design kartu",
+    image: "/assets/ryne.png",
+    preview: "https://ryneproject.space/",
+    link: "https://ryneproject.space/",
+  }, 
+  
   
 ];
 
